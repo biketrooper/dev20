@@ -1,0 +1,400 @@
+ordem_brasil_io,codigo_municipio,municipio,municipio_brasil_io,municipio_sesa
+1,103,Abatiá,Abatiá,ABATIA
+2,202,Adrianópolis,Adrianópolis,ADRIANOPOLIS
+3,301,Agudos do Sul,Agudos do Sul,AGUDOS DO SUL
+4,400,Almirante Tamandaré,Almirante Tamandaré,ALMIRANTE TAMANDARE
+5,459,Altamira do Paraná,Altamira do Paraná,ALTAMIRA DO PARANA
+6,608,Alto Paraná,Alto Paraná,ALTO PARANA
+7,28625,Alto Paraíso,Alto Paraíso,ALTO PARAISO
+8,707,Alto Piquiri,Alto Piquiri,ALTO PIQUIRI
+9,509,Altônia,Altônia,ALTONIA
+10,806,Alvorada do Sul,Alvorada do Sul,ALVORADA DO SUL
+11,905,Amaporã,Amaporã,AMAPORA
+12,1002,Ampére,Ampére,AMPERE
+13,1051,Anahy,Anahy,ANAHY
+14,1101,Andirá,Andirá,ANDIRA
+15,1200,Antonina,Antonina,ANTONINA
+16,1309,Antônio Olinto,Antônio Olinto,ANTONIO OLINTO
+17,1408,Apucarana,Apucarana,APUCARANA
+18,1507,Arapongas,Arapongas,ARAPONGAS
+19,1606,Arapoti,Arapoti,ARAPOTI
+20,1655,Arapuã,Arapuã,ARAPUA
+21,1705,Araruna,Araruna,ARARUNA
+22,1804,Araucária,Araucária,ARAUCARIA
+23,1853,Ariranha do Ivaí,Ariranha do Ivaí,ARIRANHA DO IVAI
+24,1903,Assaí,Assaí,ASSAI
+25,2000,Assis Chateaubriand,Assis Chateaubriand,ASSIS CHATEAUBRIAND
+26,2109,Astorga,Astorga,ASTORGA
+27,2208,Atalaia,Atalaia,ATALAIA
+28,2307,Balsa Nova,Balsa Nova,BALSA NOVA
+29,2406,Bandeirantes,Bandeirantes,BANDEIRANTES
+30,2505,Barbosa Ferraz,Barbosa Ferraz,BARBOSA FERRAZ
+31,2703,Barra do Jacaré,Barra do Jacaré,BARRA DO JACARE
+32,2604,Barracão,Barracão,BARRACAO
+33,2752,Bela Vista da Caroba,Bela Vista da Caroba,BELA VISTA DA CAROBA
+34,2802,Bela Vista do Paraíso,Bela Vista do Paraíso,BELA VISTA DO PARAISO
+35,2901,Bituruna,Bituruna,BITURUNA
+36,3008,Boa Esperança,Boa Esperança,BOA ESPERANCA
+37,3024,Boa Esperança do Iguaçu,Boa Esperança do Iguaçu,BOA ESPERANCA DO IGUACU
+38,3040,Boa Ventura de São Roque,Boa Ventura de São Roque,BOA VENTURA DE SAO ROQUE
+39,3057,Boa Vista da Aparecida,Boa Vista da Aparecida,BOA VISTA DA APARECIDA
+40,3107,Bocaiúva do Sul,Bocaiúva do Sul,BOCAIUVA DO SUL
+41,3156,Bom Jesus do Sul,Bom Jesus do Sul,BOM JESUS DO SUL
+42,3206,Bom Sucesso,Bom Sucesso,BOM SUCESSO
+43,3222,Bom Sucesso do Sul,Bom Sucesso do Sul,BOM SUCESSO DO SUL
+44,3305,Borrazópolis,Borrazópolis,BORRAZOPOLIS
+45,3354,Braganey,Braganey,BRAGANEY
+46,3370,Brasilândia do Sul,Brasilândia do Sul,BRASILANDIA DO SUL
+47,3404,Cafeara,Cafeara,CAFEARA
+48,3453,Cafelândia,Cafelândia,CAFELANDIA
+49,3479,Cafezal do Sul,Cafezal do Sul,CAFEZAL DO SUL
+50,3503,Califórnia,Califórnia,CALIFORNIA
+51,3602,Cambará,Cambará,CAMBARA
+52,3800,Cambira,Cambira,CAMBIRA
+53,3701,Cambé,Cambé,CAMBE
+54,4006,Campina Grande do Sul,Campina Grande do Sul,CAMPINA GRANDE DO SUL
+55,3909,Campina da Lagoa,Campina da Lagoa,CAMPINA DA LAGOA
+56,3958,Campina do Simão,Campina do Simão,CAMPINA DO SIMAO
+57,4055,Campo Bonito,Campo Bonito,CAMPO BONITO
+58,4204,Campo Largo,Campo Largo,CAMPO LARGO
+59,4253,Campo Magro,Campo Magro,CAMPO MAGRO
+60,4303,Campo Mourão,Campo Mourão,CAMPO MOURAO
+61,4105,Campo do Tenente,Campo do Tenente,CAMPO DO TENENTE
+62,4428,Candói,Candói,CANDOI
+63,4451,Cantagalo,Cantagalo,CANTAGALO
+64,4501,Capanema,Capanema,CAPANEMA
+65,4600,Capitão Leônidas Marques,Capitão Leônidas Marques,CAPITAO LEONIDAS MARQUES
+66,4659,Carambeí,Carambeí,CARAMBEI
+67,4709,Carlópolis,Carlópolis,CARLOPOLIS
+68,4808,Cascavel,Cascavel,CASCAVEL
+69,4907,Castro,Castro,CASTRO
+70,5003,Catanduvas,Catanduvas,CATANDUVAS
+71,5102,Centenário do Sul,Centenário do Sul,CENTENARIO DO SUL
+72,5201,Cerro Azul,Cerro Azul,CERRO AZUL
+73,5409,Chopinzinho,Chopinzinho,CHOPINZINHO
+74,5508,Cianorte,Cianorte,CIANORTE
+75,5607,Cidade Gaúcha,Cidade Gaúcha,CIDADE GAUCHA
+76,5706,Clevelândia,Clevelândia,CLEVELANDIA
+77,5805,Colombo,Colombo,COLOMBO
+78,5904,Colorado,Colorado,COLORADO
+79,6001,Congonhinhas,Congonhinhas,CONGONHINHAS
+80,6100,Conselheiro Mairinck,Conselheiro Mairinck,CONSELHEIRO MAIRINCK
+81,6209,Contenda,Contenda,CONTENDA
+82,6308,Corbélia,Corbélia,CORBELIA
+83,6407,Cornélio Procópio,Cornélio Procópio,CORNELIO PROCOPIO
+84,6456,Coronel Domingos Soares,Coronel Domingos Soares,CORONEL DOMINGOS SOARES
+85,6506,Coronel Vivida,Coronel Vivida,CORONEL VIVIDA
+86,6555,Corumbataí do Sul,Corumbataí do Sul,CORUMBATAI DO SUL
+87,6803,Cruz Machado,Cruz Machado,CRUZ MACHADO
+88,6571,Cruzeiro do Iguaçu,Cruzeiro do Iguaçu,CRUZEIRO DO IGUACU
+89,6605,Cruzeiro do Oeste,Cruzeiro do Oeste,CRUZEIRO DO OESTE
+90,6704,Cruzeiro do Sul,Cruzeiro do Sul,CRUZEIRO DO SUL
+91,6852,Cruzmaltina,Cruzmaltina,CRUZMALTINA
+92,6902,Curitiba,Curitiba,CURITIBA
+93,7009,Curiúva,Curiúva,CURIUVA
+94,4402,Cândido de Abreu,Cândido de Abreu,CANDIDO DE ABREU
+95,5300,Céu Azul,Céu Azul,CEU AZUL
+96,7108,Diamante do Norte,Diamante D'Oeste,DIAMANTE D'OESTE
+97,7124,Diamante do Sul,Diamante do Norte,DIAMANTE DO NORTE
+98,7157,Diamante D'Oeste,Diamante do Sul,DIAMANTE DO SUL
+99,7207,Dois Vizinhos,Dois Vizinhos,DOIS VIZINHOS
+100,7256,Douradina,Douradina,DOURADINA
+101,7306,Doutor Camargo,Doutor Camargo,DOUTOR CAMARGO
+102,28633,Doutor Ulysses,Doutor Ulysses,DOUTOR ULYSSES
+103,7504,Engenheiro Beltrão,Engenheiro Beltrão,ENGENHEIRO BELTRAO
+104,7538,Entre Rios do Oeste,Entre Rios do Oeste,ENTRE RIOS DO OESTE
+105,7405,Enéas Marques,Enéas Marques,ENEAS MARQUES
+106,7520,Esperança Nova,Esperança Nova,ESPERANCA NOVA
+107,7546,Espigão Alto do Iguaçu,Espigão Alto do Iguaçu,ESPIGAO ALTO DO IGUACU
+108,7553,Farol,Farol,FAROL
+109,7603,Faxinal,Faxinal,FAXINAL
+110,7652,Fazenda Rio Grande,Fazenda Rio Grande,FAZENDA RIO GRANDE
+111,7736,Fernandes Pinheiro,Fernandes Pinheiro,FERNANDES PINHEIRO
+112,7751,Figueira,Figueira,FIGUEIRA
+113,7850,Flor da Serra do Sul,Flor da Serra do Sul,FLOR DA SERRA DO SUL
+114,7801,Floraí,Floraí,FLORAI
+115,7900,Floresta,Floresta,FLORESTA
+116,8007,Florestópolis,Florestópolis,FLORESTOPOLIS
+117,8106,Flórida,Flórida,FLORIDA
+118,8205,Formosa do Oeste,Formosa do Oeste,FORMOSA DO OESTE
+119,8304,Foz do Iguaçu,Foz do Iguaçu,FOZ DO IGUACU
+120,8452,Foz do Jordão,Foz do Jordão,FOZ DO JORDAO
+121,8320,Francisco Alves,Francisco Alves,FRANCISCO ALVES
+122,8403,Francisco Beltrão,Francisco Beltrão,FRANCISCO BELTRAO
+123,7702,Fênix,Fênix,FENIX
+124,8502,General Carneiro,General Carneiro,GENERAL CARNEIRO
+125,8551,Godoy Moreira,Godoy Moreira,GODOY MOREIRA
+126,8601,Goioerê,Goioerê,GOIOERE
+127,8650,Goioxim,Goioxim,GOIOXIM
+128,8700,Grandes Rios,Grandes Rios,GRANDES RIOS
+129,8908,Guairaçá,Guairaçá,GUAIRACA
+130,8957,Guamiranga,Guamiranga,GUAMIRANGA
+131,9005,Guapirama,Guapirama,GUAPIRAMA
+132,9104,Guaporema,Guaporema,GUAPOREMA
+133,9203,Guaraci,Guaraci,GUARACI
+134,9302,Guaraniaçu,Guaraniaçu,GUARANIACU
+135,9401,Guarapuava,Guarapuava,GUARAPUAVA
+136,9500,Guaraqueçaba,Guaraqueçaba,GUARAQUECABA
+137,9609,Guaratuba,Guaratuba,GUARATUBA
+138,8809,Guaíra,Guaíra,GUAIRA
+139,9658,Honório Serpa,Honório Serpa,HONORIO SERPA
+140,9708,Ibaiti,Ibaiti,IBAITI
+141,9757,Ibema,Ibema,IBEMA
+142,9807,Ibiporã,Ibiporã,IBIPORA
+143,9906,Icaraíma,Icaraíma,ICARAIMA
+144,10003,Iguaraçu,Iguaraçu,IGUARACU
+145,10052,Iguatu,Iguatu,IGUATU
+146,10078,Imbaú,Imbaú,IMBAU
+147,10102,Imbituva,Imbituva,IMBITUVA
+148,10300,Inajá,Inajá,INAJA
+149,10409,Indianópolis,Indianópolis,INDIANOPOLIS
+150,10201,Inácio Martins,Inácio Martins,INACIO MARTINS
+151,10508,Ipiranga,Ipiranga,IPIRANGA
+152,10607,Iporã,Iporã,IPORA
+153,10656,Iracema do Oeste,Iracema do Oeste,IRACEMA DO OESTE
+154,10706,Irati,Irati,IRATI
+155,10805,Iretama,Iretama,IRETAMA
+156,10904,Itaguajé,Itaguajé,ITAGUAJE
+157,10953,Itaipulândia,Itaipulândia,ITAIPULANDIA
+158,11001,Itambaracá,Itambaracá,ITAMBARACA
+159,11100,Itambé,Itambé,ITAMBE
+160,11209,Itapejara d'Oeste,Itapejara d'Oeste,ITAPEJARA D'OESTE
+161,11258,Itaperuçu,Itaperuçu,ITAPERUCU
+162,11308,Itaúna do Sul,Itaúna do Sul,ITAUNA DO SUL
+163,11506,Ivaiporã,Ivaiporã,IVAIPORA
+164,11605,Ivatuba,Ivatuba,IVATUBA
+165,11555,Ivaté,Ivaté,IVATE
+166,11407,Ivaí,Ivaí,IVAI
+167,11704,Jaboti,Jaboti,JABOTI
+168,11803,Jacarezinho,Jacarezinho,JACAREZINHO
+169,11902,Jaguapitã,Jaguapitã,JAGUAPITA
+170,12009,Jaguariaíva,Jaguariaíva,JAGUARIAIVA
+171,12108,Jandaia do Sul,Jandaia do Sul,JANDAIA DO SUL
+172,12207,Janiópolis,Janiópolis,JANIOPOLIS
+173,12306,Japira,Japira,JAPIRA
+174,12405,Japurá,Japurá,JAPURA
+175,12504,Jardim Alegre,Jardim Alegre,JARDIM ALEGRE
+176,12603,Jardim Olinda,Jardim Olinda,JARDIM OLINDA
+177,12702,Jataizinho,Jataizinho,JATAIZINHO
+178,12751,Jesuítas,Jesuítas,JESUITAS
+179,12801,Joaquim Távora,Joaquim Távora,JOAQUIM TAVORA
+180,12900,Jundiaí do Sul,Jundiaí do Sul,JUNDIAI DO SUL
+181,12959,Juranda,Juranda,JURANDA
+182,13007,Jussara,Jussara,JUSSARA
+183,13106,Kaloré,Kaloré,KALORE
+184,13205,Lapa,Lapa,LAPA
+185,13254,Laranjal,Laranjal,LARANJAL
+186,13304,Laranjeiras do Sul,Laranjeiras do Sul,LARANJEIRAS DO SUL
+187,13403,Leópolis,Leópolis,LEOPOLIS
+188,13429,Lidianópolis,Lidianópolis,LIDIANOPOLIS
+189,13452,Lindoeste,Lindoeste,LINDOESTE
+190,13502,Loanda,Loanda,LOANDA
+191,13601,Lobato,Lobato,LOBATO
+192,13700,Londrina,Londrina,LONDRINA
+193,13734,Luiziana,Luiziana,LUIZIANA
+194,13759,Lunardelli,Lunardelli,LUNARDELLI
+195,13809,Lupionópolis,Lupionópolis,LUPIONOPOLIS
+196,13908,Mallet,Mallet,MALLET
+197,14005,Mamborê,Mamborê,MAMBORE
+198,14203,Mandaguari,Mandaguari,MANDAGUARI
+199,14104,Mandaguaçu,Mandaguaçu,MANDAGUACU
+200,14302,Mandirituba,Mandirituba,MANDIRITUBA
+201,14351,Manfrinópolis,Manfrinópolis,MANFRINOPOLIS
+202,14401,Mangueirinha,Mangueirinha,MANGUEIRINHA
+203,14500,Manoel Ribas,Manoel Ribas,MANOEL RIBAS
+204,14609,Marechal Cândido Rondon,Marechal Cândido Rondon,MARECHAL CANDIDO RONDON
+205,14708,Maria Helena,Maria Helena,MARIA HELENA
+206,14807,Marialva,Marialva,MARIALVA
+207,15002,Marilena,Marilena,MARILENA
+208,15101,Mariluz,Mariluz,MARILUZ
+209,14906,Marilândia do Sul,Marilândia do Sul,MARILANDIA DO SUL
+210,15200,Maringá,Maringá,MARINGA
+211,15358,Maripá,Maripá,MARIPA
+212,15309,Mariópolis,Mariópolis,MARIOPOLIS
+213,15408,Marmeleiro,Marmeleiro,MARMELEIRO
+214,15457,Marquinho,Marquinho,MARQUINHO
+215,15507,Marumbi,Marumbi,MARUMBI
+216,15606,Matelândia,Matelândia,MATELANDIA
+217,15705,Matinhos,Matinhos,MATINHOS
+218,15739,Mato Rico,Mato Rico,MATO RICO
+219,15754,Mauá da Serra,Mauá da Serra,MAUA DA SERRA
+220,15804,Medianeira,Medianeira,MEDIANEIRA
+221,15853,Mercedes,Mercedes,MERCEDES
+222,15903,Mirador,Mirador,MIRADOR
+223,16000,Miraselva,Miraselva,MIRASELVA
+224,16059,Missal,Missal,MISSAL
+225,16109,Moreira Sales,Moreira Sales,MOREIRA SALES
+226,16208,Morretes,Morretes,MORRETES
+227,16307,Munhoz de Melo,Munhoz de Melo,MUNHOZ DE MELO
+228,16406,Nossa Senhora das Graças,Nossa Senhora das Graças,NOSSA SENHORA DAS GRACAS
+229,16505,Nova Aliança do Ivaí,Nova Aliança do Ivaí,NOVA ALIANCA DO IVAI
+230,16604,Nova América da Colina,Nova América da Colina,NOVA AMERICA DA COLINA
+231,16703,Nova Aurora,Nova Aurora,NOVA AURORA
+232,16802,Nova Cantu,Nova Cantu,NOVA CANTU
+233,16901,Nova Esperança,Nova Esperança,NOVA ESPERANCA
+234,16950,Nova Esperança do Sudoeste,Nova Esperança do Sudoeste,NOVA ESPERANCA DO SUDOESTE
+235,17008,Nova Fátima,Nova Fátima,NOVA FATIMA
+236,17057,Nova Laranjeiras,Nova Laranjeiras,NOVA LARANJEIRAS
+237,17107,Nova Londrina,Nova Londrina,NOVA LONDRINA
+238,17206,Nova Olímpia,Nova Olímpia,NOVA OLIMPIA
+239,17255,Nova Prata do Iguaçu,Nova Prata do Iguaçu,NOVA PRATA DO IGUACU
+240,17214,Nova Santa Bárbara,Nova Santa Bárbara,NOVA SANTA BARBARA
+241,17222,Nova Santa Rosa,Nova Santa Rosa,NOVA SANTA ROSA
+242,17271,Nova Tebas,Nova Tebas,NOVA TEBAS
+243,17297,Novo Itacolomi,Novo Itacolomi,NOVO ITACOLOMI
+244,17305,Ortigueira,Ortigueira,ORTIGUEIRA
+245,17404,Ourizona,Ourizona,OURIZONA
+246,17453,Ouro Verde do Oeste,Ouro Verde do Oeste,OURO VERDE DO OESTE
+247,17503,Paiçandu,Paiçandu,PAICANDU
+248,17602,Palmas,Palmas,PALMAS
+249,17701,Palmeira,Palmeira,PALMEIRA
+250,17800,Palmital,Palmital,PALMITAL
+251,17909,Palotina,Palotina,PALOTINA
+252,18105,Paranacity,Paranacity,PARANACITY
+253,18204,Paranaguá,Paranaguá,PARANAGUA
+254,18303,Paranapoema,Paranapoema,PARANAPOEMA
+255,18402,Paranavaí,Paranavaí,PARANAVAI
+256,18006,Paraíso do Norte,Paraíso do Norte,PARAISO DO NORTE
+257,18451,Pato Bragado,Pato Bragado,PATO BRAGADO
+258,18501,Pato Branco,Pato Branco,PATO BRANCO
+259,18600,Paula Freitas,Paula Freitas,PAULA FREITAS
+260,18709,Paulo Frontin,Paulo Frontin,PAULO FRONTIN
+261,18808,Peabiru,Peabiru,PEABIRU
+262,18857,Perobal,Perobal,PEROBAL
+263,19152,Pinhais,Pinhais,PINHAIS
+264,19251,Pinhal de São Bento,Pinhal de São Bento,PINHAL DE SAO BENTO
+265,19202,Pinhalão,Pinhalão,PINHALAO
+266,19301,Pinhão,Pinhão,PINHAO
+267,19509,Piraquara,Piraquara,PIRAQUARA
+268,19400,Piraí do Sul,Piraí do Sul,PIRAI DO SUL
+269,19608,Pitanga,Pitanga,PITANGA
+270,19657,Pitangueiras,Pitangueiras,PITANGUEIRAS
+271,19103,Piên,Piên,PIEN
+272,19707,Planaltina do Paraná,Planaltina do Paraná,PLANALTINA DO PARANA
+273,19806,Planalto,Planalto,PLANALTO
+274,19905,Ponta Grossa,Ponta Grossa,PONTA GROSSA
+275,19954,Pontal do Paraná,Pontal do Paraná,PONTAL DO PARANA
+276,20002,Porecatu,Porecatu,PORECATU
+277,20101,Porto Amazonas,Porto Amazonas,PORTO AMAZONAS
+278,20150,Porto Barreiro,Porto Barreiro,PORTO BARREIRO
+279,20200,Porto Rico,Porto Rico,PORTO RICO
+280,20309,Porto Vitória,Porto Vitória,PORTO VITORIA
+281,20333,Prado Ferreira,Prado Ferreira,PRADO FERREIRA
+282,20358,Pranchita,Pranchita,PRANCHITA
+283,20408,Presidente Castelo Branco,Presidente Castelo Branco,PRESIDENTE CASTELO BRANCO
+284,20507,Primeiro de Maio,Primeiro de Maio,PRIMEIRO DE MAIO
+285,20606,Prudentópolis,Prudentópolis,PRUDENTOPOLIS
+286,18907,Pérola,Pérola,PEROLA
+287,19004,Pérola d'Oeste,Pérola d'Oeste,PEROLA D'OESTE
+288,20655,Quarto Centenário,Quarto Centenário,QUARTO CENTENARIO
+289,20705,Quatiguá,Quatiguá,QUATIGUA
+290,20804,Quatro Barras,Quatro Barras,QUATRO BARRAS
+291,20853,Quatro Pontes,Quatro Pontes,QUATRO PONTES
+292,20903,Quedas do Iguaçu,Quedas do Iguaçu,QUEDAS DO IGUACU
+293,21000,Querência do Norte,Querência do Norte,QUERENCIA DO NORTE
+294,21109,Quinta do Sol,Quinta do Sol,QUINTA DO SOL
+295,21208,Quitandinha,Quitandinha,QUITANDINHA
+296,21257,Ramilândia,Ramilândia,RAMILANDIA
+297,21307,Rancho Alegre,Rancho Alegre,RANCHO ALEGRE
+298,21356,Rancho Alegre D'Oeste,Rancho Alegre D'Oeste,RANCHO ALEGRE D'OESTE
+299,21406,Realeza,Realeza,REALEZA
+300,21505,Rebouças,Rebouças,REBOUCAS
+301,21604,Renascença,Renascença,RENASCENCA
+302,21703,Reserva,Reserva,RESERVA
+303,21752,Reserva do Iguaçu,Reserva do Iguaçu,RESERVA DO IGUACU
+304,21802,Ribeirão Claro,Ribeirão Claro,RIBEIRAO CLARO
+305,21901,Ribeirão do Pinhal,Ribeirão do Pinhal,RIBEIRAO DO PINHAL
+306,22008,Rio Azul,Rio Azul,RIO AZUL
+307,22107,Rio Bom,Rio Bom,RIO BOM
+308,22156,Rio Bonito do Iguaçu,Rio Bonito do Iguaçu,RIO BONITO DO IGUACU
+309,22172,Rio Branco do Ivaí,Rio Branco do Ivaí,RIO BRANCO DO IVAI
+310,22206,Rio Branco do Sul,Rio Branco do Sul,RIO BRANCO DO SUL
+311,22305,Rio Negro,Rio Negro,RIO NEGRO
+312,22404,Rolândia,Rolândia,ROLANDIA
+313,22503,Roncador,Roncador,RONCADOR
+314,22602,Rondon,Rondon,RONDON
+315,22651,Rosário do Ivaí,Rosário do Ivaí,ROSARIO DO IVAI
+316,22701,Sabáudia,Sabáudia,SABAUDIA
+317,22800,Salgado Filho,Salgado Filho,SALGADO FILHO
+318,22909,Salto do Itararé,Salto do Itararé,SALTO DO ITARARE
+319,23006,Salto do Lontra,Salto do Lontra,SALTO DO LONTRA
+320,23105,Santa Amélia,Santa Amélia,SANTA AMELIA
+321,23204,Santa Cecília do Pavão,Santa Cecília do Pavão,SANTA CECILIA DO PAVAO
+322,23303,Santa Cruz de Monte Castelo,Santa Cruz de Monte Castelo,SANTA CRUZ DE MONTE CASTELO
+323,23402,Santa Fé,Santa Fé,SANTA FE
+324,23501,Santa Helena,Santa Helena,SANTA HELENA
+325,23600,Santa Inês,Santa Inês,SANTA INES
+326,23709,Santa Isabel do Ivaí,Santa Isabel do Ivaí,SANTA ISABEL DO IVAI
+327,23808,Santa Izabel do Oeste,Santa Izabel do Oeste,SANTA IZABEL DO OESTE
+328,23824,Santa Lúcia,Santa Lúcia,SANTA LUCIA
+329,23857,Santa Maria do Oeste,Santa Maria do Oeste,SANTA MARIA DO OESTE
+330,23907,Santa Mariana,Santa Mariana,SANTA MARIANA
+331,23956,Santa Mônica,Santa Mônica,SANTA MONICA
+332,24020,Santa Tereza do Oeste,Santa Tereza do Oeste,SANTA TEREZA DO OESTE
+333,24053,Santa Terezinha de Itaipu,Santa Terezinha de Itaipu,SANTA TEREZINHA DE ITAIPU
+334,24004,Santana do Itararé,Santana do Itararé,SANTANA DO ITARARE
+335,24103,Santo Antônio da Platina,Santo Antônio da Platina,SANTO ANTONIO DA PLATINA
+336,24202,Santo Antônio do Caiuá,Santo Antônio do Caiuá,SANTO ANTONIO DO CAIUA
+337,24301,Santo Antônio do Paraíso,Santo Antônio do Paraíso,SANTO ANTONIO DO PARAISO
+338,24400,Santo Antônio do Sudoeste,Santo Antônio do Sudoeste,SANTO ANTONIO DO SUDOESTE
+339,24509,Santo Inácio,Santo Inácio,SANTO INACIO
+340,26207,Sapopema,Sapopema,SAPOPEMA
+341,26256,Sarandi,Sarandi,SARANDI
+342,26272,Saudade do Iguaçu,Saudade do Iguaçu,SAUDADE DO IGUACU
+343,26306,Sengés,Sengés,SENGES
+344,26355,Serranópolis do Iguaçu,Serranópolis do Iguaçu,SERRANOPOLIS DO IGUACU
+345,26405,Sertaneja,Sertaneja,SERTANEJA
+346,26504,Sertanópolis,Sertanópolis,SERTANOPOLIS
+347,26603,Siqueira Campos,Siqueira Campos,SIQUEIRA CAMPOS
+348,26652,Sulina,Sulina,SULINA
+349,24608,São Carlos do Ivaí,São Carlos do Ivaí,SAO CARLOS DO IVAI
+350,24707,São Jerônimo da Serra,São Jerônimo da Serra,SAO JERONIMO DA SERRA
+351,25209,São Jorge d'Oeste,São Jorge d'Oeste,SAO JORGE D'OESTE
+352,25308,São Jorge do Ivaí,São Jorge do Ivaí,SAO JORGE DO IVAI
+353,25357,São Jorge do Patrocínio,São Jorge do Patrocínio,SAO JORGE DO PATROCINIO
+354,25407,São José da Boa Vista,São José da Boa Vista,SAO JOSE DA BOA VISTA
+355,25456,São José das Palmeiras,São José das Palmeiras,SAO JOSE DAS PALMEIRAS
+356,25506,São José dos Pinhais,São José dos Pinhais,SAO JOSE DOS PINHAIS
+357,24806,São João,São João,SAO JOAO
+358,24905,São João do Caiuá,São João do Caiuá,SAO JOAO DO CAIUA
+359,25001,São João do Ivaí,São João do Ivaí,SAO JOAO DO IVAI
+360,25100,São João do Triunfo,São João do Triunfo,SAO JOAO DO TRIUNFO
+361,25555,São Manoel do Paraná,São Manoel do Paraná,SAO MANOEL DO PARANA
+362,25605,São Mateus do Sul,São Mateus do Sul,SAO MATEUS DO SUL
+363,25704,São Miguel do Iguaçu,São Miguel do Iguaçu,SAO MIGUEL DO IGUACU
+364,25753,São Pedro do Iguaçu,São Pedro do Iguaçu,SAO PEDRO DO IGUACU
+365,25803,São Pedro do Ivaí,São Pedro do Ivaí,SAO PEDRO DO IVAI
+366,25902,São Pedro do Paraná,São Pedro do Paraná,SAO PEDRO DO PARANA
+367,26009,São Sebastião da Amoreira,São Sebastião da Amoreira,SAO SEBASTIAO DA AMOREIRA
+368,26108,São Tomé,São Tomé,SAO TOME
+369,26678,Tamarana,Tamarana,TAMARANA
+370,26702,Tamboara,Tamboara,TAMBOARA
+371,26801,Tapejara,Tapejara,TAPEJARA
+372,26900,Tapira,Tapira,TAPIRA
+373,27007,Teixeira Soares,Teixeira Soares,TEIXEIRA SOARES
+374,27106,Telêmaco Borba,Telêmaco Borba,TELEMACO BORBA
+375,27205,Terra Boa,Terra Boa,TERRA BOA
+376,27304,Terra Rica,Terra Rica,TERRA RICA
+377,27403,Terra Roxa,Terra Roxa,TERRA ROXA
+378,27502,Tibagi,Tibagi,TIBAGI
+379,27601,Tijucas do Sul,Tijucas do Sul,TIJUCAS DO SUL
+380,27700,Toledo,Toledo,TOLEDO
+381,27809,Tomazina,Tomazina,TOMAZINA
+382,27858,Três Barras do Paraná,Três Barras do Paraná,TRES BARRAS DO PARANA
+383,27882,Tunas do Paraná,Tunas do Paraná,TUNAS DO PARANA
+384,27908,Tuneiras do Oeste,Tuneiras do Oeste,TUNEIRAS DO OESTE
+385,27957,Tupãssi,Tupãssi,TUPASSI
+386,27965,Turvo,Turvo,TURVO
+387,28005,Ubiratã,Ubiratã,UBIRATA
+388,28104,Umuarama,Umuarama,UMUARAMA
+389,28302,Uniflor,Uniflor,UNIFLOR
+390,28203,União da Vitória,União da Vitória,UNIAO DA VITORIA
+391,28401,Uraí,Uraí,URAI
+392,28534,Ventania,Ventania,VENTANIA
+393,28559,Vera Cruz do Oeste,Vera Cruz do Oeste,VERA CRUZ DO OESTE
+394,28609,Verê,Verê,VERE
+395,28658,Virmond,Virmond,VIRMOND
+396,28708,Vitorino,Vitorino,VITORINO
+397,28500,Wenceslau Braz,Wenceslau Braz,WENCESLAU BRAZ
+398,28807,Xambrê,Xambrê,XAMBRE
+399,1150,Ângulo,Ângulo,ANGULO
